@@ -25,18 +25,7 @@ echo -e    "\E[1;31m         (_)               (_)   (_)(_)(_)               (_)
 echo -e    "\E[1;31m         (_)        _  _   (_)         (_)  _  _         (_)         "
 echo -e    "\E[1;31m         (_)       (_)(_)  (_) _  _  _ (_) (_)(_)        (_)         "
 echo -e    "\E[1;31m         (_)       (_)(_)     (_)(_)(_)(_) (_)(_)        (_)         "
-echo -e    "\E[1;31m          ] | [  Made by The Genesis Intelligence Team ] | [       "              "
-echo -e 
-echo -e 
-echo -e    "\E[1;31m                         ______________________________                                            "
-echo -e    "\E[1;31m                        |                              |                                                    "
-echo -e    "\E[1;31m                        |      Tested by Genesis       |                                "
-echo -e    "\E[1;31m                        |                              |                                                    "
-echo -e    "\E[1;31m                        | \e[33mONLY FOR T.G.T ONLY! \E[1;31m|                                                   "
-echo -e    "\E[1;31m                        |______________________________|                                                        "
-echo -e    "\E[1;31m                                                                         "
-echo -e    "\E[1;31m                                                                                                     "
-
+echo -e    "\E[1;31m          ] | [  Made by The Genesis Intelligence Team ] | [       "              
 read -p "Press [Enter] key to Continue......."
 clear
 echo -e   "\E[1;31m%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                    "
